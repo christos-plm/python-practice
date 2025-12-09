@@ -1,3 +1,4 @@
 # python-practice
 A repository for experimenting with python
-Programming course - DEcember 2025
+
+Programming course - December 2025
